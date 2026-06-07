@@ -93,9 +93,9 @@ Passionate about building scalable web applications, creating intuitive user exp
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Jayprakash-1704
-* LinkedIn: Add Your LinkedIn URL
-* Portfolio: Add Your Portfolio URL
-* Email: Add Your Email
+* LinkedIn: https://www.linkedin.com/in/jayprakash1704/
+
+* Email: work.jayprakash.17@gmail.com
 
 ---
 
