@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Jayprakash
 
-<!--
-**Jayprakash-1704/Jayprakash-1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer
 
-Here are some ideas to get you started:
+🚀 Passionate about Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Advanced React & System Design
+
+💻 Tech Stack:
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML5
+- CSS3
+- Tailwind CSS
+
+## Projects
+
+### E-Commerce Website
+- React + Node.js + MongoDB
+- GitHub: https://github.com/yourusername/ecommerce
+
+### Chat Application
+- Socket.io based real-time chat app
+- GitHub: https://github.com/yourusername/chat-app
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/yourusername
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
